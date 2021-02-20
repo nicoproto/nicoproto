@@ -1,4 +1,13 @@
-# Hello there! <img src="https://github.com/nicoproto/nicoproto/blob/main/wave.gif" width="30px">
+# Hi there! <img src="https://github.com/nicoproto/nicoproto/blob/main/wave.gif" width="30px">
+
+## Want to know more about me? 
+![https://nicoproto.medium.com/](https://img.shields.io/badge/Medium-black?logo=medium&style=for-the-badge)
+![https://codepen.io/nicoproto](https://img.shields.io/badge/Codepen-black?logo=codepen&style=for-the-badge)
+![https://www.linkedin.com/in/nicolas-proto/](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&style=for-the-badge)
+![https://www.mangotree.dev/](https://img.shields.io/badge/MangoTree-black?logo=mango&style=for-the-badge)
+
+
+
 
 <!--
 
