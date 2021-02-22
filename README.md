@@ -1,6 +1,7 @@
 # Hi there! <img src="https://github.com/nicoproto/nicoproto/blob/main/wave.gif" width="30px">
 
 ## Want to know more about me? 
+![https://dev.to/nicoproto/](https://img.shields.io/badge/Dev.to-black?logo=dev.to&style=for-the-badge)
 ![https://nicoproto.medium.com/](https://img.shields.io/badge/Medium-black?logo=medium&style=for-the-badge)
 ![https://codepen.io/nicoproto](https://img.shields.io/badge/Codepen-black?logo=codepen&style=for-the-badge)
 ![https://www.linkedin.com/in/nicolas-proto/](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&style=for-the-badge)
