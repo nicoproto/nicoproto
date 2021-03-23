@@ -7,9 +7,12 @@
 ![https://www.linkedin.com/in/nicolas-proto/](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&style=for-the-badge)
 ![https://www.mangotree.dev/](https://img.shields.io/badge/MangoTree-red?logo=mango&style=for-the-badge)
 
-
-
-
+<a href="https://github.com/nicoproto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicoproto&show_icons=true&count_private=true&theme=merko" />
+</a>
+<a href="https://github.com/nicoproto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoproto&layout=compact&theme=merko" />
+</a>
 <!--
 
 TODO: Add technologies
