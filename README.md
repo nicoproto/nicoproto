@@ -27,7 +27,7 @@
 </a>
 <!--
 
-TODO: Add technologies
+TODO: Add technologies 
 
 ![vue logo](https://img.shields.io/badge/code-Vue-green?logo=vue.js&style=for-the-badge)
 ![javascript logo](https://img.shields.io/badge/code-JavaScript-green?logo=JavaScript&style=for-the-badge)
