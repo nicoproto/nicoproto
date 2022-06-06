@@ -1,4 +1,4 @@
-# Hi there! <img src="https://github.com/nicoproto/nicoproto/blob/main/wave.gif" width="30px">
+# Hi there! 👋
 
 ## Want to know more about me? 
 <div>
