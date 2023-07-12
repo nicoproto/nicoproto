@@ -18,10 +18,3 @@
   <img src="https://img.shields.io/badge/MangoTree-red?logo=mango&style=for-the-badge" />
  </a>
 </div> 
-
-<a href="https://github.com/nicoproto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicoproto&show_icons=true&count_private=true&theme=merko" />
-</a>
-<a href="https://github.com/nicoproto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoproto&layout=compact&theme=merko" />
-</a>
